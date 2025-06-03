@@ -37,7 +37,6 @@ I'm a full-stack web developer with strong skills in MongoDB, Express.js, React,
 - [Email](soorajcpchathanathparampil@gmail.com)
 
 
-![Sooraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooraj8136&show_icons=true&theme=radical)
+![Sooraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooraj8136&show_icons=true&theme=dracula)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sooraj8136&theme=radical)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sooraj8136&theme=dracula)
