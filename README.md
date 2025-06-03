@@ -12,20 +12,13 @@ I'm a full-stack web developer with strong skills in MongoDB, Express.js, React,
 - 🚀 Currently exploring UI/UX design, deployment pipelines, and API integrations  
 - 📚 Always upskilling through projects, courses, and collaboration
 
-## 💼 Tech Stack
-- Frontend: React, HTML, CSS, JavaScript, Bootstrap
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Tools: Git, GitHub, VS Code, Postman
+💼 Tech Stack
 
-**Database:**  
-- MongoDB, SQL
-
-**Other:**  
-- JWT Authentication  
-- RESTful APIs  
-- Clean Code Practices  
-- Deployment (Railway, Vercel, Netlify)
+- Frontend: React, HTML, CSS, JavaScript, Bootstrap  
+- Backend: Node.js, Express.js  
+- Database: MongoDB, SQL  
+- Tools: Git, GitHub, VS Code, Postman  
+- Other: JWT Authentication, RESTful APIs, Clean Code Practices, Deployment (Railway, Vercel, Netlify)
 
 ## 🌟 Extra Skills
 - UI/UX Design Enthusiast  
