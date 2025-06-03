@@ -20,11 +20,6 @@ I'm a full-stack web developer with strong skills in MongoDB, Express.js, React,
 - Tools: Git, GitHub, VS Code, Postman  
 - Other: JWT Authentication, RESTful APIs, Clean Code Practices, Deployment (Railway, Vercel, Netlify)
 
-## 🌟 Extra Skills
-- UI/UX Design Enthusiast  
-- Detail-oriented Pencil Sketch Artist  
-- Clean code & responsive design mindset
-
 ## 📈 GitHub Activity Graph
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
