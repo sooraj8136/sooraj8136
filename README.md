@@ -32,10 +32,13 @@ I'm a full-stack web developer with strong skills in MongoDB, Express.js, React,
 - Detail-oriented Pencil Sketch Artist  
 - Clean code & responsive design mindset  
 
+![Sooraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooraj8136&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sooraj8136&theme=radical)
+
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=sooraj8136&theme=blue)
+
 ## 📫 Connect with Me
 - [LinkedIn](www.linkedin.com/in/soorajcp)
 - [Email](soorajcpchathanathparampil@gmail.com)
 
-![Sooraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooraj8136&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sooraj8136&theme=radical)
