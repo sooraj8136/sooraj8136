@@ -30,15 +30,15 @@ I'm a full-stack web developer with strong skills in MongoDB, Express.js, React,
 ## 🌟 Extra Skills
 - UI/UX Design Enthusiast  
 - Detail-oriented Pencil Sketch Artist  
-- Clean code & responsive design mindset  
+- Clean code & responsive design mindset
+
+## 📈 GitHub Activity Graph
 
 ![Sooraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooraj8136&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sooraj8136&theme=radical)
 
-## 📈 GitHub Activity Graph
-
-![Sooraj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sooraj8136&theme=high-contrast)
+![Sooraj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sooraj8136&theme=github-compact&color=00bfff&bg_color=000000)
 
 
 ## 📫 Connect with Me
