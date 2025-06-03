@@ -36,7 +36,7 @@ I'm a full-stack web developer with strong skills in MongoDB, Express.js, React,
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sooraj8136&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sooraj8136)](https://github.com/ryo-ma/github-profile-trophy)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername)
 
 ## 📫 Connect with Me
 - [LinkedIn](www.linkedin.com/in/soorajcp)
