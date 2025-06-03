@@ -38,7 +38,7 @@ I'm a full-stack web developer with strong skills in MongoDB, Express.js, React,
 
   <img src="https://github-readme-stats.vercel.app/api?username=sooraj8136&show_icons=true&theme=radical" alt="Sooraj's GitHub stats" width="380"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sooraj8136&theme=radical" alt="GitHub Streak" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooraj8136&layout=compact&theme=radical" alt="GitHub Streak" width="380"/>
 
 </div>
 
