@@ -18,5 +18,4 @@ I'm a full-stack web developer with strong skills in MongoDB, Express.js, React,
 ## 📫 Connect with Me
 - [LinkedIn](www.linkedin.com/in/soorajcp)
 - [Email](soorajcpchathanathparampil@gmail.com)
-- 
 
