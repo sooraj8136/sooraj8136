@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Sooraj!
 
-<!--
-**sooraj8136/sooraj8136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring MERN Stack Developer | Creative Coder | Passionate Pencil Sketch Artist 🎨💻
 
-Here are some ideas to get you started:
+I'm a full-stack web developer with strong skills in MongoDB, Express.js, React, and Node.js. I love building scalable, dynamic web apps—and adding a touch of design flair, thanks to my creative background in sketching and UI/UX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Tech Stack
+- Frontend: React, HTML, CSS, JavaScript, Bootstrap
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, VS Code, Postman
+
+## 🌟 Extra Skills
+- UI/UX Design Enthusiast  
+- Detail-oriented Pencil Sketch Artist  
+- Clean code & responsive design mindset  
+
+## 📫 Connect with Me
+- [LinkedIn](www.linkedin.com/in/soorajcp)
+- [Email](soorajcpchathanathparampil@gmail.com)
+- 
+
