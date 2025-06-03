@@ -38,7 +38,7 @@ I'm a full-stack web developer with strong skills in MongoDB, Express.js, React,
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sooraj8136&theme=radical)
 
-![Sooraj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sooraj8136&theme=github-compact&color=00bfff&line=00bfff&point=00bfff&area=true&bg_color=000000)
+![Sooraj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sooraj8136&theme=github-compact&color=61DBFB&line=61DBFB&point=FFFFFF&area=true&bg_color=000000&hide_border=true)
 
 ## 📫 Connect with Me
 - [LinkedIn](www.linkedin.com/in/soorajcp)
