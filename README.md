@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sooraj!
 
-Aspiring MERN Stack Developer | Creative Coder | Passionate Pencil Sketch Artist 🎨💻
+Aspiring MERN Stack Developer | UI/UX Designer | Creative Coder | Passionate Pencil Sketch Artist 🎨💻
 
 I'm a full-stack web developer with strong skills in MongoDB, Express.js, React, and Node.js. I love building scalable, dynamic web apps—and adding a touch of design flair, thanks to my creative background in sketching and UI/UX.
 
